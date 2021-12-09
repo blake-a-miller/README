@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
->The Open Systems Interconnection Model (OSI Model) is a networking framework that serves to direct the protocols that make the internet what it is.
+>The Open Systems Interconnection Model (OSI Model) is a representation of the networking framework that serves to direct the protocols that make the internet what it is.
  The OSI Model consists of 7 layers which depict the processes taking place when a user interacts with a machine (computer), and then the result of that interaction. 
  The OSI Model helps us understand how the machines work, their capabilities and limitations, and furthermore, the machines potential. 
 
@@ -13,7 +13,7 @@
 
 ## **History**
 
-A brief history of ice cream can be found by clicking [here.](https://youtu.be/53noEBeu9gQ)
+A brief history of ice cream can be found by clicking [here.](https://youtu.be/uPIZs6k6DRo) (00:00 - 03:27)
 
 Pretty interesting stuff right? :joy:
 
