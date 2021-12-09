@@ -13,9 +13,9 @@
 
 ## **History**
 
-A brief history of ice cream can be found by clicking [here.](https://youtu.be/uPIZs6k6DRo) (00:00 - 03:27)
+A brief history of the OSI Model can be found by clicking [here.](https://youtu.be/uPIZs6k6DRo) (00:00 - 03:27)
 
-Pretty interesting stuff right? :joy:
+Pretty interesting stuff right? 🌞
 
 
 ## **Variety**
