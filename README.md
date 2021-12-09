@@ -1,15 +1,15 @@
 # **The Open Systems Interconnection Model (OSI Model)**
-### **Blake Miller**
+#### **Blake Miller**
 #### **10 December 2021**
 
 ## **Introduction**
 
->Ice cream is the product of mixing and chilling several ingredients to include: milk, cream, sugar and flavoring.  
-The result is a tasty treat served *cold* and often accompanied by accessories such as an edible cone or sprinkle toppings.  
+>The Open Systems Interconnection Model (OSI Model) is a networking framework that serves to direct the protocols that make the internet what it is.
+ The OSI Model consists of 7 layers which depict the processes taking place when a user interacts with a computer machine, and then the result of that interaction. 
+ The OSI Model helps us understand how the machines work, their capabilities and limitations, and furthermore, the machines potential. 
 
->Ice cream has been enjoyed by humans for hundreds of years.  
-As a classic pastime around the world, it will continue to be a hold a place in our list of favorite desserts.  
-One really great thing about ice cream is that the available flavors are endless. You can find **any** flavor possible if you try hard enough!
+>This tutorial was made with the intent of providing a brief and enjoyable way to learn about the OSI Model! This tutorial was made for people of any and all ages.
+ All that's needed is an interest to learn. 
 
 ## **History**
 
