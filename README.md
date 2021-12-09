@@ -54,5 +54,5 @@ Here is a list of my favorite ice cream flavors from Ben & Jerry's, number 1 bei
 ### **The Application Layer**
 
 References: Information obtained for this tutorial can be found at the following websites:
->https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017
->https://en.wikipedia.org/wiki/OSI_model
+>* https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017
+>* https://en.wikipedia.org/wiki/OSI_model
