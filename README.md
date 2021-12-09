@@ -36,10 +36,10 @@ Pretty interesting stuff right? 🌞
 
 ### **The Physical Layer**
 
-Here is a list of my favorite ice cream flavors from Ben & Jerry's, number 1 being my all time favorite:
-1. Americone Dream
-2. Half Baked
-3. Milk & Cookies
+The Physical layer is responsible for transmitting data bits using electrical pulses and signals. That is, taking the data and breaking it down into its rawest form
+so that it may be transported. 
+The easiest way to explain the physical layer is through familiraztion with the components that it includes.
+Several networking components like ethernet cables, network interface cards (NICs), and hubs.
 
 ### **The Data Link Layer**
 
