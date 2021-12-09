@@ -18,11 +18,11 @@ A brief history of the OSI Model can be found by clicking [here.](https://youtu.
 Pretty interesting stuff right? 🌞
 
 
-## **Variety**
+## **Layers**
 
->As mentioned previously, ice cream is one of the most versatile foods on the planet.  
-First, ice cream can be eaten in many different forms and fashions.  
->>Some of these include:  
+>As mentioned previously, the OSI Model is made up of layers. **7** layers to be exact.   
+  
+>>In order from top to bottom, here is a list of the 7 layers that make up the OSI Model:  
   >>* Soft-Serve (cone or cup)
   >>* Milkshake
   >>* Custard
