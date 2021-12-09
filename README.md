@@ -32,7 +32,7 @@ Pretty interesting stuff right? 🌞
   > 7. Application Layer (top layer)
   
 
-![Rocky Road](https://celebratingsweets.com/wp-content/uploads/2021/04/Rocky-Road-Ice-Cream-3-2.webp), ![Strawberry Cheesecake](https://www.eatwell101.com/wp-content/uploads/2019/07/Strawberry-Cheesecake-Ice-Cream-recipe-3.jpg), ![Butter Pecan](https://www.simplyrecipes.com/thmb/hvdgw6kzmm90NN5fUYwyuWIW_1E=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Butter-Pecan-Ice-Cream-LEAD-8-721cad221d274f7081ca84022d89aa8a.jpg)
+![OSI Model](https://miro.medium.com/max/700/1*17Zz6v0HWIzgiOzQYmO6lA.jpeg)
 
 ### **Personal Favorites**
 
