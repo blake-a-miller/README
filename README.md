@@ -5,7 +5,7 @@
 ## **Introduction**
 
 >The Open Systems Interconnection Model (OSI Model) is a networking framework that serves to direct the protocols that make the internet what it is.
- The OSI Model consists of 7 layers which depict the processes taking place when a user interacts with a computer machine, and then the result of that interaction. 
+ The OSI Model consists of 7 layers which depict the processes taking place when a user interacts with a machine (computer), and then the result of that interaction. 
  The OSI Model helps us understand how the machines work, their capabilities and limitations, and furthermore, the machines potential. 
 
 >This tutorial was made with the intent of providing a brief and enjoyable way to learn about the OSI Model! This tutorial was made for people of any and all ages.
