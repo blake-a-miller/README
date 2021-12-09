@@ -23,13 +23,13 @@ Pretty interesting stuff right? 🌞
 >As mentioned previously, the OSI Model is made up of layers. **7** layers to be exact.   
   
 >>In order from top to bottom, here is a list of the 7 layers that make up the OSI Model:  
-  * 1. Physical Layer
-    2. Data Link Layer
-    3. Network Layer
-    4. Transport Layer
-    5. Session Layer
-    6. Presentation Layer
-    7. Application Layer
+  > 1. Physical Layer
+  > 2. Data Link Layer
+  > 3. Network Layer
+  > 4. Transport Layer
+  > 5. Session Layer
+  > 6. Presentation Layer
+  > 7. Application Layer
   
 >Another way that ice cream is so versatile is the amount of flavors it is made with.  
 Just look at these options!!!
