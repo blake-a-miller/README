@@ -41,10 +41,18 @@ so that it may be transported.
 The easiest way to explain the physical layer is through familiraztion with the components that it includes.
 Several networking components like ethernet cables, network interface cards (NICs), and hubs.
 
+When the physical layer is on the receiving end of a data package, it does all of this in reverse, it recieves the package and then puts it into a format
+that is compatible with viewing on the user's display. 
+
 ### **The Data Link Layer**
+
+The Data Link Layer can be thought of as the big brother of the physical layer. First, this layer manages physical addressing schemes to include MAC addresses.
+Access controller is a helpful way of conceptualizing this layer. While it serves its own purpose, the data link layer also filters and checks the data packages
+prepared by the physical layer (little brother). In the event of an error in the data package, the data link layer will correct or reroute the package.
 
 ### **The Network Layer**
 
+The third layer of the OSI Model, the network layer, 
 ### **The Transport Layer**
 
 ### **The Session Layer**
