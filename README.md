@@ -34,9 +34,25 @@ Pretty interesting stuff right? 🌞
 
 ![OSI Model](https://miro.medium.com/max/700/1*17Zz6v0HWIzgiOzQYmO6lA.jpeg)
 
-### **Personal Favorites**
+### **The Physical Layer**
 
 Here is a list of my favorite ice cream flavors from Ben & Jerry's, number 1 being my all time favorite:
 1. Americone Dream
 2. Half Baked
 3. Milk & Cookies
+
+### **The Data Link Layer**
+
+### **The Network Layer**
+
+### **The Transport Layer**
+
+### **The Session Layer**
+
+### **The Presentation Layer**
+
+### **The Application Layer**
+
+References: Information obtained for this tutorial can be found at the following websites:
+>https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017
+>https://en.wikipedia.org/wiki/OSI_model
