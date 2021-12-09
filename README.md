@@ -1,9 +1,6 @@
-# README
- Module 13 Challenge
-
-# **Ice Cream**
-
----
+# **The Open Systems Interconnection Model (OSI Model)**
+###**Blake Miller**
+####**10 December 2021**
 
 ## **Introduction**
 
