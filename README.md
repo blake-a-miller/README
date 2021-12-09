@@ -23,16 +23,14 @@ Pretty interesting stuff right? 🌞
 >As mentioned previously, the OSI Model is made up of layers. **7** layers to be exact.   
   
 >>In order from top to bottom, here is a list of the 7 layers that make up the OSI Model:  
-  > 1. Physical Layer
+  > 1. Physical Layer (bottom layer)
   > 2. Data Link Layer
   > 3. Network Layer
   > 4. Transport Layer
   > 5. Session Layer
   > 6. Presentation Layer
-  > 7. Application Layer
+  > 7. Application Layer (top layer)
   
->Another way that ice cream is so versatile is the amount of flavors it is made with.  
-Just look at these options!!!
 
 ![Rocky Road](https://celebratingsweets.com/wp-content/uploads/2021/04/Rocky-Road-Ice-Cream-3-2.webp), ![Strawberry Cheesecake](https://www.eatwell101.com/wp-content/uploads/2019/07/Strawberry-Cheesecake-Ice-Cream-recipe-3.jpg), ![Butter Pecan](https://www.simplyrecipes.com/thmb/hvdgw6kzmm90NN5fUYwyuWIW_1E=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Butter-Pecan-Ice-Cream-LEAD-8-721cad221d274f7081ca84022d89aa8a.jpg)
 
