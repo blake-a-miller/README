@@ -9,7 +9,7 @@
  The OSI Model helps us understand how the machines work, their capabilities and limitations, and furthermore, the machines potential. 
 
 >This tutorial was made with the intent of providing a brief and enjoyable way to learn about the OSI Model! This tutorial was made for people of any and all ages.
- An interest to learn will be largely helpful. :smiley: 
+ An interest to learn will be largely helpful. :wink:
 
 ## **History**
 
