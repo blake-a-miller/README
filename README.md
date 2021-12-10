@@ -77,9 +77,11 @@ Imagine you are planning a major event such as a wedding, ball, auction, party..
 
 ### **The Presentation Layer**
 
-The presentation layer, also known as the syntax layer, is the second to last layer of the OSI model. 
+The presentation layer, also known as the syntax layer, is the second to last layer of the OSI model. At this point the data has gone through five layers and is at the doorstep, ready for delivery. Before the data package can moved forward, it must be converted into a standard that is compatible with the intended display method. It is at the presentation layer that this takes place. 
 
 ### **The Application Layer**
+
+The application layer is the last layer of the OSI Model and is responsible for specifying the shared communications protocols and interface methods used by hosts in a communications network. To help understand the application layer I like to think of our event coordinator example. Much like the network layer, the application layer has to ensure flawless communication so that data transmissions can continue working properly. The key differences are that instead of trying and hoping for results, the application layer demands or dictates the protocols to be used in the data transmission. 
 
 ---------------------------------
 
