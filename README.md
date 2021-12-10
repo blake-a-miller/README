@@ -71,8 +71,9 @@ is not to say that the tranpsort layer is incapable, rather, a strong connection
 
 ### **The Session Layer**
 
-The fifth layer, the session layer, is the means for creating and maintaining simple and complex connections over networks. Like an event coordinator, the session layer
-facilitates a connection, or ***"SESSION"*** between two or several parties. 
+The fifth layer, the session layer, is the means for creating and maintaining simple and complex connections over networks. The session layer facilitates a connection, or ***"SESSION"*** between two or several parties. The session layer can be confusing so as always, it's helpful for us to relate it to something we have a better understanding of. I like to think of the session layer as an event coordinator. 
+
+Imagine you are planning a major event such as a wedding, ball, auction, party...literally any big event. To plan evertyhing for yourself could be extremely time consuming and challenging. An even coordinator will take care of tasks such as contacting and making a reservation (session) with other parties who are needed to execute the event. The session layer is doing precisely this when you are sending or receiving data from across the network.  
 
 ### **The Presentation Layer**
 
