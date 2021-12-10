@@ -38,10 +38,10 @@ Pretty interesting stuff right? 🌞
 
 The Physical layer is responsible for transmitting data bits using electrical pulses and signals. That is, taking the data and breaking it down into its rawest form
 so that it may be transported. 
-The easiest way to explain the physical layer is through familiraztion with the components that it includes.
+I like to explain the physical layer through familiraztion with the components that it includes.
 Several components used in networking like ethernet cables, network interface cards (NICs), and hubs, are all components of the physical layer.
 
-When the physical layer is on the receiving end of a data package, it does all of this in reverse, it recieves the package and then puts it into a format
+When the physical layer is on the receiving end of a data package, it does all of this in reverse, it receives the package and then puts it into a format
 that is compatible with viewing on the user's display. 
 
 ### **The Data Link Layer**
