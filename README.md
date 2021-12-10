@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
->The Open Systems Interconnection Model (OSI Model) is a representation of the networking framework that serves to direct the protocols that make the internet what it is.
+>The Open Systems Interconnection Model (OSI Model) is a representation of the networking framework that serves to direct the protocols that make up the internet.
  The OSI Model consists of 7 layers which depict the processes taking place when a user interacts with a machine (computer), and then the result of that interaction. 
  The OSI Model helps us understand how the machines work, their capabilities and limitations, and furthermore, the machines potential. 
 
