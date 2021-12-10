@@ -20,7 +20,7 @@ Pretty interesting stuff right? 🌞
 
 ## **Layers**
 
->As mentioned previously, the OSI Model is made up of layers. **7** layers to be exact.   
+>As mentioned previously, the OSI Model is made up of layers.
   
 >>In order from top to bottom, here is a list of the 7 layers that make up the OSI Model:  
   > 1. Physical Layer (bottom layer)
