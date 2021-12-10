@@ -66,9 +66,13 @@ Once a data packet reaches the transport layer it is fully prepped and ready for
 through the network to reach its destination. There are several protocols that exist to support data transmissions. A few of them, such as Transmission Control Protocol (TCP)
 have been around and frequently used for decades. A protocol is a set of rules governing the exchange or transmission of data between devices. 
 
+The transport layer works more efficiently when working in a connection-oriented communication, unlike the connectionless capabilities we see in the network layer. This
+is not to say that the tranpsort layer is incapable, rather, a strong connection is preferred. TCP is connection-oriented. 
+
 ### **The Session Layer**
 
-
+The fifth layer, the session layer, is the means for creating and maintaining simple and complex connections over networks. Like an event coordinator, the session layer
+facilitates a connection, or ***"SESSION"*** between two or several parties. 
 
 ### **The Presentation Layer**
 
