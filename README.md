@@ -52,10 +52,23 @@ prepared by the physical layer (little brother). In the event of an error in the
 
 ### **The Network Layer**
 
-The third layer of the OSI Model, the network layer, 
+After data has passed through the  data link layer and makes it to the third layer of the OSI Model, the network layer, data is double checked for proper addressing. 
+Imagine a worker at the post office examining a letter and confirming the sending and recieving address before the post is put into a truck for shipping/delivery. 
+This is much like what is going on in the network layer. The network layer's goal is to prepare the data into packets for the transport layer. 
+
+An interesting feature of the network layer is that it is what we often refer to as, connectionless. What this means when you hear it in regard to the network layer
+is that data is sent from the sender to recipient without any prior connection, handshake, or acknowledgement. The network layer also performs as a phone book of sorts
+in that it has the capability to store and maintain addresses in a cache. 
+
 ### **The Transport Layer**
 
+Once a data packet reaches the transport layer it is fully prepped and ready for delivery. The transport layer is the layer where the data packet begins its journey 
+through the network to reach its destination. There are several protocols that exist to support data transmissions. A few of them, such as Transmission Control Protocol (TCP)
+have been around and frequently used for decades. A protocol is a set of rules governing the exchange or transmission of data between devices. 
+
 ### **The Session Layer**
+
+
 
 ### **The Presentation Layer**
 
