@@ -77,6 +77,8 @@ Imagine you are planning a major event such as a wedding, ball, auction, party..
 
 ### **The Presentation Layer**
 
+The presentation layer, also known as the syntax layer, is the second to last layer of the OSI model. 
+
 ### **The Application Layer**
 
 ---------------------------------
